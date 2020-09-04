@@ -4,6 +4,8 @@ Derived totally from [Eleventastic](https://github.com/maxboeck/eleventastic) by
 
 A simple Eleventy Starter Kit. ([Demo Site](https://eleventastic.netlify.com))
 
+![](https://user-images.githubusercontent.com/41983/92249276-15840700-eeca-11ea-901f-51107bc68145.png)
+
 ## Features
 
 * CSS Pipeline (Sass, CleanCSS)
