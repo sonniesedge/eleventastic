@@ -1,8 +1,8 @@
-# Eleventastic
+# Twelvety
 
-A simple Eleventy Starter Kit, my base for all new 11ty projects. ([Demo Site](https://eleventastic.netlify.com))
+Derived totally from [Eleventastic](https://github.com/maxboeck/eleventastic) by [Max Boeck](https://github.com/maxboeck), who is far far more clever than I.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f78ec52d-8328-4e40-b6da-a0f9164e80d1/deploy-status)](https://app.netlify.com/sites/eleventastic/deploys)
+A simple Eleventy Starter Kit. ([Demo Site](https://eleventastic.netlify.com))
 
 ## Features
 
@@ -26,10 +26,6 @@ npm install
 * Run `npm start` for a development server and live reloading
 * Run `npm run build` to generate a production build
 
-## Deploy a fork of this template to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/maxboeck/eleventastic)
-
 ## CSS
 
 Styling works with Sass. The main index file is in `src/assets/styles/main.scss`. Import any SCSS code you want in there; it will be processed and optimized. The output is in `dist/assets/styles/main.css`
@@ -51,7 +47,7 @@ Currently, critical CSS will only be inlined in the head of the homepage. This i
 ## Credits
 
 My heartfelt thanks to these people, whom I shamelessly copied ideas from:
-
+* Max Boeck: [Eleventastic](https://github.com/maxboeck/eleventastic)
 * Phil Hawksworth: [EleventyOne](https://github.com/philhawksworth/eleventyone)
 * Mike Riethmuller: [Supermaya](https://github.com/MadeByMike/supermaya)
 * Zach Leatherman: [zachleat.com](https://github.com/zachleat/zachleat.com)
